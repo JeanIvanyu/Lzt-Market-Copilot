@@ -46,12 +46,6 @@ Tampermonkey-скрипт для `lzt.market`, который оценивает
 3. При выдаче токена используй доступ `market`.
 4. Открой в маркете страницу `Настройки Copilot` и вставь token в поле.
 
-Полезные ссылки:
-
-- Документация Market API:
-  [https://lzt-market.readme.io/reference/information](https://lzt-market.readme.io/reference/information)
-- Страница настроек Copilot открывается из бокового меню на `lzt.market`.
-
 ## Установка
 
 1. Установи `Tampermonkey`.
